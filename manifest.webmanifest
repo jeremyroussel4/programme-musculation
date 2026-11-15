@@ -1,0 +1,16 @@
+{
+  "name": "Mon carnet d'entraînement",
+  "short_name": "Mon carnet",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f4ef",
+  "theme_color": "#285f4d",
+  "icons": [
+    {
+      "src": "./assets/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
